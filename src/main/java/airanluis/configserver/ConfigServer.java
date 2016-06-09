@@ -1,4 +1,4 @@
-package com.bbva.openplatform.configserver;
+package airanluis.configserver;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
